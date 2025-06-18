@@ -212,7 +212,7 @@ const Footer = () => {
           transition={{ delay: 0.7 }}
         >
           <div className="mb-4 md:mb-0">
-            © {currentYear} CivilTools Pro. All rights reserved.
+            © {currentYear} CivilTools Pro. All rights reserved.@ MUHAMMOD SAIDUZZAMAN SAAD
           </div>
           <div className="flex space-x-6">
             <a href="#" className="hover:text-gray-300 transition-colors">Terms</a>
